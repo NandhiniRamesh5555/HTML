@@ -1,4 +1,5 @@
- <b> - Bold text 
+<pre>
+<b> - Bold text 
   
  <strong> - Important text
   
@@ -18,3 +19,4 @@
   
  <sup> - Superscript text
   
+</pre>
