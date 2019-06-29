@@ -1,4 +1,4 @@
-
+(
 <b> - Bold text
 <strong> - Important text
 <i> - Italic text
@@ -9,3 +9,4 @@
 <ins> - Inserted text
 <sub> - Subscript text
 <sup> - Superscript text
+  )
