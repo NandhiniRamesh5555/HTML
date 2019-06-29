@@ -1,20 +1,20 @@
-<b> - Bold text 
+ <b> - Bold text 
   
-<strong> - Important text
+ <strong> - Important text
   
-<i> - Italic text
+ <i> - Italic text
   
-<em> - Emphasized text
+ <em> - Emphasized text
   
-<mark> - Marked text
+ <mark> - Marked text
   
-<small> - Small text
+ <small> - Small text
   
-<del> - Deleted text
+ <del> - Deleted text
   
-<ins> - Inserted text
+  <ins> - Inserted text
   
-<sub> - Subscript text
+ <sub> - Subscript text
   
-<sup> - Superscript text
+ <sup> - Superscript text
   
